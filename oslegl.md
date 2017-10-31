@@ -1,15 +1,15 @@
 
-Please change me .
+Changed.
 
 
 
-Your favorite fruit: ...
+Your favorite fruit: Apple
 
 Your favorite city: ...
 
 Your favorite vegetable: ...
 
-Your favorite color: ...
+Your favorite color: Black
 
 Your favorite icecream: ...
 
