@@ -11,9 +11,9 @@ Your favorite vegetable: ...
 
 Your favorite color: Black
 
-Your favorite icecream: ...
+Your favorite icecream: None
 
-Your favorite season: ...
+Your favorite season: Spring
 
 
 (after this, please follow the instructions in README.md)
